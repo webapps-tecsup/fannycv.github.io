@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.subtitle {
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.programming-languages i {
+  font-size: 7em;
+}
+
+.programming-languages img {
+  width: 1.3em;
+  margin-top: -65px;
+}
